@@ -1,7 +1,5 @@
 # worldbank_populations data analysis:
 
-Here's a detailed summary of the notebook without including any code:
-
 ### Introduction
 The notebook analyzes world population data using various Python libraries for data manipulation and visualization.
 
